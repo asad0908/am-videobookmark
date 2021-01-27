@@ -29,12 +29,6 @@
   margin: 15px;
   background-color: wheat;
   border-radius: 10px;
-  cursor: pointer;
-}
-
-.app__bookmarksContainer p:active {
-  background-color: black;
-  color: white;
 }
 
 .app__video--controls {
